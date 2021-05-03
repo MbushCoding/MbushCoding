@@ -33,7 +33,10 @@ Student in IT and college
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-    
+    Contributions
+
+| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------- |
     
     📊 **This Week I Spent My Time On** 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -59,3 +62,4 @@ Linux                    49 mins             ░░░░░░░░░░░�
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+

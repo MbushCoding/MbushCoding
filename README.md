@@ -8,12 +8,13 @@ Student in IT and college
     <a href="https://github.com/Mbushcoding" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MbushCoding?style=flat-square&logo=GitHub&logoColor=white"></a>
     
     <p>
-  <img width="250" align='left' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuR0012G5uKNR7QxxWQV6Sk0rRkLpGmoMcoA&usqp=CAU">
+  <img width="250" align='left' src="https://uploads-ssl.webflow.com/5fef53698f7605f5423fd2d7/609a89941c49413a80ae9fb8_HTML%20Logo%20v3.png">
 </p>
  
 ### HTML ENTHUSIAIST
 
-I have been making websites for a while now and ive gotten pretty good at it. For some business inquiries you can contact me on discord.
+
+This is not my business account, ask for it.
    
 
 

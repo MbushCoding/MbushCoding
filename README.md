@@ -7,6 +7,13 @@ Student in IT and college
 <p align="center">
     <a href="https://github.com/Mbushcoding" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MbushCoding?style=flat-square&logo=GitHub&logoColor=white"></a>
     
+    <p>
+  <img width="250" align='left' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuR0012G5uKNR7QxxWQV6Sk0rRkLpGmoMcoA&usqp=CAU">
+</p>
+ 
+### HTML ENTHUSIAIST
+
+I have been making websites for a while now and ive gotten pretty good at it. For some business inquiries you can contact me on discord.
    
 
 

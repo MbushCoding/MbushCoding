@@ -7,7 +7,7 @@ Student in IT and college
 <p> align="center">
     <a href="https://github.com/Mbushcoding" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MbushCoding?style=flat-square&logo=GitHub&logoColor=white"></a>
     
-    <p>
+   
   <img width="250" align='left' src="https://uploads-ssl.webflow.com/5fef53698f7605f5423fd2d7/609a89941c49413a80ae9fb8_HTML%20Logo%20v3.png">
 </p>
  

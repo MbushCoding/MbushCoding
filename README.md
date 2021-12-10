@@ -76,27 +76,11 @@ Student in IT and college
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
     
     📊 **This Week I Spent My Time On** 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////
-```text
-⌚︎ Time Zone: Europe/Helsinki
-
-💬 Programming Languages: 
-Other                    63 hrs 38 mins      ████████████████████████░   98.86% 
-CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-Vue.js                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
-PHP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
-
-🔥 Editors: 
-Browser                  63 hrs 29 mins      ████████████████████████░   98.61% 
-VS Code                  44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Zsh                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
-
-💻 Operating System: 
-Windows                  63 hrs 33 mins      ████████████████████████░   98.72% 
-Linux                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
-
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////
-
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
+<img src="https://metrics.lecoq.io/KasRoudra">	
+<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>

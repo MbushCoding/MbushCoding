@@ -4,7 +4,7 @@ Student in IT and college
 
 
 
-<p align="center">
+<p> align="center">
     <a href="https://github.com/Mbushcoding" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MbushCoding?style=flat-square&logo=GitHub&logoColor=white"></a>
     
     <p>

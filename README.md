@@ -1,4 +1,4 @@
-<img src="https://www.mastercard.fi/content/dam/public/mastercardcom/eu/fi/consumers/cards/mc-standard-card_1280x720.png"/>
+
 
 
 Info about me:
